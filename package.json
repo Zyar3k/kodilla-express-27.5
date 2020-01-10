@@ -1,0 +1,11 @@
+{
+  "name": "kodilla-express-27.5",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": " ",
+  "author": " ",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
